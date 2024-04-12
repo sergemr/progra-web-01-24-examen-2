@@ -1,0 +1,11 @@
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  left: 100vw;
+  height: 100vh;
+  background-color: #000;
+}
+.css-cuefkz-MuiContainer-root{
+  width: 5rem !important;
+}
