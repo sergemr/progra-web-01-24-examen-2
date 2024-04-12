@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+  background-color: black;
+  color: white;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.App-header {
+  margin-bottom: 20px;
+}
+
+.Response {
+  margin-top: 20px;
+}
